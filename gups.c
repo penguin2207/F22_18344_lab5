@@ -127,7 +127,6 @@ void *process_tm( void *varg ){
         goto end;
       }
     }
-fallback: 
     __sync_fetch_and_add(fallbacks_tm, 1);
     pthread_spin_lock(kv_mut + ind);
     kv[ind]++;
