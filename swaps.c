@@ -1,6 +1,7 @@
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <pthread.h>
 #include <errno.h>
 #include "tm.h"
@@ -15,6 +16,11 @@ size_t num_thread = 8;
 size_t kv_entries = 1000;
 size_t variant = 1;
 size_t num_swaps = 0;
+
+size_t *aborts_tm;
+size_t *commits_tm;
+size_t *fallbacks_tm;
+
 
 void *(*process)(void*) = NULL;
 
@@ -77,12 +83,16 @@ void *process_nosync( void *varg ){
       int j2 = j == 0 ? (num_swaps-1) : j-1;
       unsigned long t = kv[ inds[j2] ];
       kv[ inds[j2] ] = kv[ inds[j] ];
-      kv[ inds[j] ] = t+1; 
-
+      kv[ inds[j] ] = t+1;
     }
 
   }
 
+}
+
+// cite : https://www.tutorialspoint.com/c_standard_library/c_function_qsort.htm
+int cmpfunc (const void * a, const void * b) {
+   return ( *(int*)a - *(int*)b );
 }
 
 
@@ -90,9 +100,12 @@ void *process_mut( void *varg ){
 
   pthread_barrier_wait(&start_bar);
   size_t *inds = calloc( num_swaps, sizeof(size_t) );
+  size_t *inds_sorted = calloc( num_swaps, sizeof(size_t) );
+  
   for(int i = 0; i < num_iters; i++){
 
     uniq_list(kv_entries, num_swaps, inds);
+    memcpy(inds_sorted, inds, num_swaps*sizeof(size_t));
 
     /*TODO: Use pthread_spin_lock synchronization 
             to protect the elements of kv[] that the
@@ -101,15 +114,35 @@ void *process_mut( void *varg ){
             Remember: your indices are unique, but 
             unordered.  
     */
-    for(int j = 0; j < num_swaps; j++){
 
-      int j2 = j == 0 ? (num_swaps-1) : j-1;
-      unsigned long t = kv[ inds[j2] ];
-      kv[ inds[j2] ] = kv[ inds[j] ];
-      kv[ inds[j] ] = t+1; 
+    // Sort the locks 
+    qsort(inds_sorted, num_swaps, sizeof(size_t), cmpfunc);
+    // for (int i = 0; i < num_swaps; i++) {
+    //   printf("%d",inds_sorted[i]);
+    // }
+    // printf("\n");
+    // for (int i = 0; i < num_swaps; i++) {
+    //   printf("%d",inds[i]);
+    // }
+    // printf("\n");
 
+    // lock per each ind to be swapped
+    for (int ind = 0; ind < num_swaps; ind++) {
+      pthread_spin_lock(kv_mut + inds_sorted[ind]);
     }
 
+    // Lock the indices that were to be swapped
+    for(int j = 0; j < num_swaps; j++){
+      int j2 = j == 0 ? (num_swaps-1) : j-1;
+      
+      unsigned long t = kv[ inds[j2] ];
+      kv[ inds[j2] ] = kv[ inds[j] ];
+      kv[ inds[j] ] = t+1;
+    }
+    // unlock
+    for (int ind = 0; ind < num_swaps; ind++) {
+      pthread_spin_unlock(kv_mut + inds_sorted[ind]);
+    }
   }
 
 }
@@ -119,27 +152,67 @@ void *process_mut( void *varg ){
 void *process_tm( void *varg ){
 
   pthread_barrier_wait(&start_bar);
+  int MAX_TRIES = 200;
   size_t *inds = calloc( num_swaps, sizeof(size_t) );
+  size_t *inds_sorted = calloc( num_swaps, sizeof(size_t) );
+  
+
   for(int i = 0; i < num_iters; i++){
 
     uniq_list(kv_entries, num_swaps, inds);  
+    memcpy(inds_sorted, inds, num_swaps*sizeof(size_t));
 
     /*TODO: Synchronize this loop using transactional
             memory, with appropriate fallback code
     */
-    for(int j = 0; j < num_swaps; j++){
+    qsort(inds_sorted, num_swaps, sizeof(size_t), cmpfunc);
 
-      int j2 = j == 0 ? (num_swaps-1) : j-1;
-      unsigned long t = kv[ inds[j2] ];
-      kv[ inds[j2] ] = kv[ inds[j] ];
-      kv[ inds[j] ] = t+1; 
+    for(int j=0; j<MAX_TRIES; j++){
+        int status = _xbegin();
+        if(status == _XBEGIN_STARTED){
+          for (int i = 0; i < num_swaps; i++) {
+            if(kv_mut[ inds_sorted[i] ] != 1) {
+              __sync_fetch_and_add(aborts_tm, 1);
+              _xabort(_XABORT_EXPLICIT);
+            }
 
+            // Do the swap
+            int j2 = j == 0 ? (num_swaps-1) : j-1;
+            unsigned long t = kv[ inds[j2] ];
+            kv[ inds[j2] ] = kv[ inds[j] ];
+            kv[ inds[j] ] = t+1; 
+
+            __sync_fetch_and_add(commits_tm, 1);
+            _xend();
+            goto end;
+          }
+        }
     }
+  // __sync_fetch_and_add(fallbacks_tm, 1);
+  // pthread_spin_lock(kv_mut + ind);
+  // kv[ind]++;
+  // pthread_spin_unlock(kv_mut + ind);
 
     /*TODO: Don't forget!  You'll need
             to implement a fallback case
             in case the transaction fails
-            to commit*/  
+            to commit*/ 
+
+    /* Fall back case */
+    for (int ind = 0; ind < num_swaps; ind++) {
+      pthread_spin_lock(kv_mut + inds[ind]);
+    }
+    for(int j = 0; j < num_swaps; j++){
+      int j2 = j == 0 ? (num_swaps-1) : j-1;
+      unsigned long t = kv[ inds[j2] ];
+      kv[ inds[j2] ] = kv[ inds[j] ];
+      kv[ inds[j] ] = t+1; 
+    }
+    for (int ind = 0; ind < num_swaps; ind++) {
+      pthread_spin_unlock(kv_mut + inds[ind]);
+    }
+
+    end: continue;
 
   }
 
@@ -217,6 +290,7 @@ int main(int argc, char *argv[]){
 
         }
         break;
+        
 
       default: 
         process = &process_nosync;
@@ -256,8 +330,12 @@ int main(int argc, char *argv[]){
 
   }
 
+
   /*Check results and print output*/
+  printf("Aborts ave: %d, Fallback ave: %d\n", *aborts_tm/num_thread, *fallbacks_tm/num_thread);
   postprocess();
+  free(aborts_tm);
+  free(fallbacks_tm);
 
 }
 
