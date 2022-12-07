@@ -114,25 +114,25 @@ void *process_tm( void *varg ){
 
     size_t ind = rand() % kv_entries;
 
-    for(int j=0; j<MAX_TRIES; j++){
-        int status = _xbegin();
-        if(status == _XBEGIN_STARTED){
-          if(kv_mut[ind] != 1) {
-            __sync_fetch_and_add(aborts_tm, 1);
-            _xabort(_XABORT_EXPLICIT);
-          }
-          kv[ind]++;
-          __sync_fetch_and_add(commits_tm, 1);
-          _xend();
-          goto end;
+  for(int j=0; j<MAX_TRIES; j++){
+      int status = _xbegin();
+      if(status == _XBEGIN_STARTED){
+        if(kv_mut[ind] != 1) {
+          __sync_fetch_and_add(aborts_tm, 1);
+          _xabort(_XABORT_EXPLICIT);
         }
+        kv[ind]++;
+        __sync_fetch_and_add(commits_tm, 1);
+        _xend();
+        goto end;
+      }
     }
-  __sync_fetch_and_add(fallbacks_tm, 1);
-  pthread_spin_lock(kv_mut + ind);
-  kv[ind]++;
-  pthread_spin_unlock(kv_mut + ind);
+    __sync_fetch_and_add(fallbacks_tm, 1);
+    pthread_spin_lock(kv_mut + ind);
+    kv[ind]++;
+    pthread_spin_unlock(kv_mut + ind);
 
-  end: continue;
+end: continue;
   }
 
 }
@@ -250,5 +250,4 @@ int main(int argc, char *argv[]){
   postprocess();
 
 }
-
 
