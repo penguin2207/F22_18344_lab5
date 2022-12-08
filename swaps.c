@@ -107,14 +107,6 @@ void *process_mut( void *varg ){
     uniq_list(kv_entries, num_swaps, inds);
     memcpy(inds_sorted, inds, num_swaps*sizeof(size_t));
 
-    /*TODO: Use pthread_spin_lock synchronization 
-            to protect the elements of kv[] that the
-            program is shuffling.
-
-            Remember: your indices are unique, but 
-            unordered.  
-    */
-
     // Sort the locks 
     qsort(inds_sorted, num_swaps, sizeof(size_t), cmpfunc);
     // for (int i = 0; i < num_swaps; i++) {
@@ -152,55 +144,42 @@ void *process_mut( void *varg ){
 void *process_tm( void *varg ){
 
   pthread_barrier_wait(&start_bar);
-  int MAX_TRIES = 200;
+  int MAX_TRIES = 1;
   size_t *inds = calloc( num_swaps, sizeof(size_t) );
   size_t *inds_sorted = calloc( num_swaps, sizeof(size_t) );
-  
 
-  for(int i = 0; i < num_iters; i++){
+
+  for(int k = 0; k < num_iters; k++){
 
     uniq_list(kv_entries, num_swaps, inds);  
-    memcpy(inds_sorted, inds, num_swaps*sizeof(size_t));
-
-    /*TODO: Synchronize this loop using transactional
-            memory, with appropriate fallback code
-    */
-    qsort(inds_sorted, num_swaps, sizeof(size_t), cmpfunc);
-
-    for(int j=0; j<MAX_TRIES; j++){
-        int status = _xbegin();
-        if(status == _XBEGIN_STARTED){
-          for (int i = 0; i < num_swaps; i++) {
-            if(kv_mut[ inds_sorted[i] ] != 1) {
-              __sync_fetch_and_add(aborts_tm, 1);
-              _xabort(_XABORT_EXPLICIT);
-            }
-
-            // Do the swap
-            int j2 = j == 0 ? (num_swaps-1) : j-1;
-            unsigned long t = kv[ inds[j2] ];
-            kv[ inds[j2] ] = kv[ inds[j] ];
-            kv[ inds[j] ] = t+1; 
-
-            __sync_fetch_and_add(commits_tm, 1);
-            _xend();
-            goto end;
-          }
+    
+    for(int i=0; i<MAX_TRIES; i++){
+      if(_xbegin() == _XBEGIN_STARTED){
+        for (int j = 0; j < num_swaps; j++) {
+          if(kv_mut[ inds[j] ] != 1) {
+            // __sync_fetch_and_add(aborts_tm, 1);
+            _xabort(_XABORT_EXPLICIT);
+          } 
         }
+        for (int j = 0; j < num_swaps; j++) {
+          // Do the swap
+          int j2 = j == 0 ? (num_swaps-1) : j-1;
+          unsigned long t = kv[ inds[j2] ];
+          kv[ inds[j2] ] = kv[ inds[j] ];
+          kv[ inds[j] ] = t+1; 
+          // sync_fetch_and_add(commits_tm, 1);
+        }
+        _xend();
+        goto end;
+      }
     }
-  // __sync_fetch_and_add(fallbacks_tm, 1);
-  // pthread_spin_lock(kv_mut + ind);
-  // kv[ind]++;
-  // pthread_spin_unlock(kv_mut + ind);
-
-    /*TODO: Don't forget!  You'll need
-            to implement a fallback case
-            in case the transaction fails
-            to commit*/ 
 
     /* Fall back case */
+    memcpy(inds_sorted, inds, num_swaps*sizeof(size_t));
+    qsort(inds_sorted, num_swaps, sizeof(size_t), cmpfunc);
+
     for (int ind = 0; ind < num_swaps; ind++) {
-      pthread_spin_lock(kv_mut + inds[ind]);
+      pthread_spin_lock(kv_mut + inds_sorted[ind]);
     }
     for(int j = 0; j < num_swaps; j++){
       int j2 = j == 0 ? (num_swaps-1) : j-1;
@@ -209,10 +188,10 @@ void *process_tm( void *varg ){
       kv[ inds[j] ] = t+1; 
     }
     for (int ind = 0; ind < num_swaps; ind++) {
-      pthread_spin_unlock(kv_mut + inds[ind]);
+      pthread_spin_unlock(kv_mut + inds_sorted[ind]);
     }
 
-    end: continue;
+    end: ;
 
   }
 
@@ -332,11 +311,10 @@ int main(int argc, char *argv[]){
 
 
   /*Check results and print output*/
-  printf("Aborts ave: %d, Fallback ave: %d\n", *aborts_tm/num_thread, *fallbacks_tm/num_thread);
+  //printf("Aborts ave: %d, Fallback ave: %d\n", *aborts_tm/num_thread, *fallbacks_tm/num_thread);
   postprocess();
   free(aborts_tm);
   free(fallbacks_tm);
 
 }
-
 
