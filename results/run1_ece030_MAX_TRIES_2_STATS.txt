@@ -1,0 +1,2688 @@
+1000 entries, 1 threads, 50000 iters, variant 1 
+Found 50000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 50000 1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 208
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 100000 iters, variant 1 
+Found 100000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 100000 1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 208
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 200000 iters, variant 1 
+Found 200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 200000 1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 85%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 207
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 400000 iters, variant 1 
+Found 400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 400000 1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 208
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 50000 iters, variant 1 
+Found 100000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 50000 1"
+	User time (seconds): 0.05
+	System time (seconds): 0.04
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 220
+	Voluntary context switches: 20
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100000 iters, variant 1 
+Found 200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 100000 1"
+	User time (seconds): 0.05
+	System time (seconds): 0.06
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 217
+	Voluntary context switches: 27
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 200000 iters, variant 1 
+Found 400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 200000 1"
+	User time (seconds): 0.14
+	System time (seconds): 0.14
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 217
+	Voluntary context switches: 65
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 400000 iters, variant 1 
+Found 800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 400000 1"
+	User time (seconds): 0.20
+	System time (seconds): 0.16
+	Percent of CPU this job got: 199%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 218
+	Voluntary context switches: 57
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 50000 iters, variant 1 
+Found 700000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 50000 1"
+	User time (seconds): 0.35
+	System time (seconds): 2.09
+	Percent of CPU this job got: 1122%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 748
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 242
+	Voluntary context switches: 105057
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100000 iters, variant 1 
+Found 1400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 100000 1"
+	User time (seconds): 0.68
+	System time (seconds): 4.65
+	Percent of CPU this job got: 1281%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 748
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 242
+	Voluntary context switches: 225264
+	Involuntary context switches: 6
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 200000 iters, variant 1 
+Found 2800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 200000 1"
+	User time (seconds): 1.52
+	System time (seconds): 10.55
+	Percent of CPU this job got: 1277%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.94
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 748
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 242
+	Voluntary context switches: 506940
+	Involuntary context switches: 20
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 400000 iters, variant 1 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 400000 1"
+	User time (seconds): 3.20
+	System time (seconds): 23.52
+	Percent of CPU this job got: 1287%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 748
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 323
+	Voluntary context switches: 965962
+	Involuntary context switches: 57
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 50000 iters, variant 1 
+Found 1400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 50000 1"
+	User time (seconds): 0.93
+	System time (seconds): 15.42
+	Percent of CPU this job got: 2490%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 273
+	Voluntary context switches: 221675
+	Involuntary context switches: 16
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100000 iters, variant 1 
+Found 2800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 100000 1"
+	User time (seconds): 1.42
+	System time (seconds): 24.67
+	Percent of CPU this job got: 2483%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 272
+	Voluntary context switches: 379276
+	Involuntary context switches: 34
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 200000 iters, variant 1 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 200000 1"
+	User time (seconds): 2.75
+	System time (seconds): 46.20
+	Percent of CPU this job got: 2497%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.96
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 350
+	Voluntary context switches: 922267
+	Involuntary context switches: 62
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 400000 iters, variant 1 
+Found 11200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 400000 1"
+	User time (seconds): 5.34
+	System time (seconds): 89.11
+	Percent of CPU this job got: 2623%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 466
+	Voluntary context switches: 1728156
+	Involuntary context switches: 92
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 50000 iters, variant 1 
+Found 2800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 50000 1"
+	User time (seconds): 1.42
+	System time (seconds): 35.15
+	Percent of CPU this job got: 3215%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 332
+	Voluntary context switches: 404485
+	Involuntary context switches: 16
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100000 iters, variant 1 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 100000 1"
+	User time (seconds): 3.02
+	System time (seconds): 71.86
+	Percent of CPU this job got: 3294%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 476
+	Voluntary context switches: 865853
+	Involuntary context switches: 34
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 200000 iters, variant 1 
+Found 11200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 200000 1"
+	User time (seconds): 5.39
+	System time (seconds): 115.13
+	Percent of CPU this job got: 3078%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.91
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 484
+	Voluntary context switches: 1707462
+	Involuntary context switches: 86
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 400000 iters, variant 1 
+Found 22400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 400000 1"
+	User time (seconds): 10.69
+	System time (seconds): 224.75
+	Percent of CPU this job got: 3057%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.70
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 606
+	Voluntary context switches: 3348382
+	Involuntary context switches: 150
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 50000 iters, variant 1 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 50000 1"
+	User time (seconds): 3.22
+	System time (seconds): 112.81
+	Percent of CPU this job got: 4624%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 695
+	Voluntary context switches: 857940
+	Involuntary context switches: 113
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100000 iters, variant 1 
+Found 11200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 100000 1"
+	User time (seconds): 6.18
+	System time (seconds): 226.18
+	Percent of CPU this job got: 4620%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 881
+	Voluntary context switches: 1602144
+	Involuntary context switches: 202
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 200000 iters, variant 1 
+Found 22400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 200000 1"
+	User time (seconds): 13.07
+	System time (seconds): 474.87
+	Percent of CPU this job got: 4871%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:10.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1085
+	Voluntary context switches: 3356550
+	Involuntary context switches: 393
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 400000 iters, variant 1 
+Found 44800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 400000 1"
+	User time (seconds): 25.01
+	System time (seconds): 954.00
+	Percent of CPU this job got: 4914%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:19.92
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1047
+	Voluntary context switches: 6227663
+	Involuntary context switches: 759
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 50000 iters, variant 2 
+Found 50000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 50000 2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 207
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 100000 iters, variant 2 
+Found 100000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 100000 2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 50%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 206
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 200000 iters, variant 2 
+Found 200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 200000 2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 75%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 206
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 400000 iters, variant 2 
+Found 400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 400000 2"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 87%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 207
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 50000 iters, variant 2 
+Found 100000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 50000 2"
+	User time (seconds): 0.03
+	System time (seconds): 0.05
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 217
+	Voluntary context switches: 33
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100000 iters, variant 2 
+Found 200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 100000 2"
+	User time (seconds): 0.03
+	System time (seconds): 0.05
+	Percent of CPU this job got: 188%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 656
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 216
+	Voluntary context switches: 8
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 200000 iters, variant 2 
+Found 400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 200000 2"
+	User time (seconds): 0.15
+	System time (seconds): 0.18
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 216
+	Voluntary context switches: 93
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 400000 iters, variant 2 
+Found 800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 400000 2"
+	User time (seconds): 0.30
+	System time (seconds): 0.42
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 217
+	Voluntary context switches: 222
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 50000 iters, variant 2 
+Found 700000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 50000 2"
+	User time (seconds): 0.29
+	System time (seconds): 2.19
+	Percent of CPU this job got: 1301%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 242
+	Voluntary context switches: 104781
+	Involuntary context switches: 11
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100000 iters, variant 2 
+Found 1400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 100000 2"
+	User time (seconds): 0.52
+	System time (seconds): 4.22
+	Percent of CPU this job got: 1314%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 242
+	Voluntary context switches: 171225
+	Involuntary context switches: 12
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 200000 iters, variant 2 
+Found 2800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 200000 2"
+	User time (seconds): 1.42
+	System time (seconds): 12.64
+	Percent of CPU this job got: 1288%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 740
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 316
+	Voluntary context switches: 405210
+	Involuntary context switches: 25
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 400000 iters, variant 2 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 400000 2"
+	User time (seconds): 2.72
+	System time (seconds): 26.16
+	Percent of CPU this job got: 1306%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 328
+	Voluntary context switches: 699740
+	Involuntary context switches: 31
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 50000 iters, variant 2 
+Found 1400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 50000 2"
+	User time (seconds): 0.54
+	System time (seconds): 7.32
+	Percent of CPU this job got: 1855%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 271
+	Voluntary context switches: 204506
+	Involuntary context switches: 15
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100000 iters, variant 2 
+Found 2800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 100000 2"
+	User time (seconds): 1.30
+	System time (seconds): 24.99
+	Percent of CPU this job got: 2441%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 271
+	Voluntary context switches: 385013
+	Involuntary context switches: 18
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 200000 iters, variant 2 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 200000 2"
+	User time (seconds): 2.38
+	System time (seconds): 46.58
+	Percent of CPU this job got: 2425%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 860
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 357
+	Voluntary context switches: 723569
+	Involuntary context switches: 45
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 400000 iters, variant 2 
+Found 11200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 400000 2"
+	User time (seconds): 4.53
+	System time (seconds): 84.72
+	Percent of CPU this job got: 2613%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 405
+	Voluntary context switches: 1568348
+	Involuntary context switches: 121
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 50000 iters, variant 2 
+Found 2800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 50000 2"
+	User time (seconds): 1.10
+	System time (seconds): 29.73
+	Percent of CPU this job got: 3201%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.96
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 332
+	Voluntary context switches: 317450
+	Involuntary context switches: 15
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100000 iters, variant 2 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 100000 2"
+	User time (seconds): 2.20
+	System time (seconds): 57.96
+	Percent of CPU this job got: 3204%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 407
+	Voluntary context switches: 620444
+	Involuntary context switches: 23
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 200000 iters, variant 2 
+Found 11200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 200000 2"
+	User time (seconds): 4.37
+	System time (seconds): 113.63
+	Percent of CPU this job got: 3236%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.64
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 471
+	Voluntary context switches: 1227374
+	Involuntary context switches: 60
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 400000 iters, variant 2 
+Found 22400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 400000 2"
+	User time (seconds): 9.08
+	System time (seconds): 217.44
+	Percent of CPU this job got: 3138%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 545
+	Voluntary context switches: 3231079
+	Involuntary context switches: 163
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 50000 iters, variant 2 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 50000 2"
+	User time (seconds): 2.62
+	System time (seconds): 95.30
+	Percent of CPU this job got: 4475%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 452
+	Voluntary context switches: 736036
+	Involuntary context switches: 123
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100000 iters, variant 2 
+Found 11200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 100000 2"
+	User time (seconds): 5.37
+	System time (seconds): 205.07
+	Percent of CPU this job got: 4666%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 603
+	Voluntary context switches: 1501296
+	Involuntary context switches: 162
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 200000 iters, variant 2 
+Found 22400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 200000 2"
+	User time (seconds): 10.45
+	System time (seconds): 398.80
+	Percent of CPU this job got: 4636%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.82
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 811
+	Voluntary context switches: 2939520
+	Involuntary context switches: 432
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 400000 iters, variant 2 
+Found 44800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 400000 2"
+	User time (seconds): 21.94
+	System time (seconds): 837.76
+	Percent of CPU this job got: 4706%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 989
+	Voluntary context switches: 5823430
+	Involuntary context switches: 1048
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 50000 iters, variant 3 
+Found 50000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 50000 3"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 206
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 100000 iters, variant 3 
+Found 100000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 100000 3"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 50%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 207
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 200000 iters, variant 3 
+Found 200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 200000 3"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 60%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 206
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 400000 iters, variant 3 
+Found 400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 400000 3"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 77%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 616
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 207
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 50000 iters, variant 3 
+Found 100000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 50000 3"
+	User time (seconds): 0.02
+	System time (seconds): 0.04
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 217
+	Voluntary context switches: 16
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100000 iters, variant 3 
+Found 200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 100000 3"
+	User time (seconds): 0.06
+	System time (seconds): 0.05
+	Percent of CPU this job got: 196%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 216
+	Voluntary context switches: 36
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 200000 iters, variant 3 
+Found 400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 200000 3"
+	User time (seconds): 0.13
+	System time (seconds): 0.13
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 216
+	Voluntary context switches: 59
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 400000 iters, variant 3 
+Found 800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 2 400000 3"
+	User time (seconds): 0.22
+	System time (seconds): 0.23
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 216
+	Voluntary context switches: 285
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 50000 iters, variant 3 
+Found 700000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 50000 3"
+	User time (seconds): 0.35
+	System time (seconds): 2.86
+	Percent of CPU this job got: 1182%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 242
+	Voluntary context switches: 95427
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100000 iters, variant 3 
+Found 1400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 100000 3"
+	User time (seconds): 0.72
+	System time (seconds): 5.70
+	Percent of CPU this job got: 1248%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 241
+	Voluntary context switches: 226688
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 200000 iters, variant 3 
+Found 2800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 200000 3"
+	User time (seconds): 1.48
+	System time (seconds): 12.29
+	Percent of CPU this job got: 1282%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 241
+	Voluntary context switches: 423678
+	Involuntary context switches: 31
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 400000 iters, variant 3 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 14 400000 3"
+	User time (seconds): 3.06
+	System time (seconds): 25.24
+	Percent of CPU this job got: 1283%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 320
+	Voluntary context switches: 839172
+	Involuntary context switches: 59
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 50000 iters, variant 3 
+Found 1400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 50000 3"
+	User time (seconds): 0.79
+	System time (seconds): 12.57
+	Percent of CPU this job got: 2289%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 271
+	Voluntary context switches: 203811
+	Involuntary context switches: 18
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100000 iters, variant 3 
+Found 2800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 100000 3"
+	User time (seconds): 1.54
+	System time (seconds): 26.00
+	Percent of CPU this job got: 2330%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 350
+	Voluntary context switches: 432708
+	Involuntary context switches: 37
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 200000 iters, variant 3 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 200000 3"
+	User time (seconds): 2.74
+	System time (seconds): 40.70
+	Percent of CPU this job got: 2207%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.96
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 360
+	Voluntary context switches: 893188
+	Involuntary context switches: 65
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 400000 iters, variant 3 
+Found 11200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 28 400000 3"
+	User time (seconds): 5.36
+	System time (seconds): 78.51
+	Percent of CPU this job got: 2332%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 864
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 394
+	Voluntary context switches: 1750716
+	Involuntary context switches: 54
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 50000 iters, variant 3 
+Found 2800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 50000 3"
+	User time (seconds): 1.37
+	System time (seconds): 27.82
+	Percent of CPU this job got: 3073%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.95
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 332
+	Voluntary context switches: 428612
+	Involuntary context switches: 18
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100000 iters, variant 3 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 100000 3"
+	User time (seconds): 2.72
+	System time (seconds): 64.59
+	Percent of CPU this job got: 3266%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 411
+	Voluntary context switches: 828596
+	Involuntary context switches: 55
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 200000 iters, variant 3 
+Found 11200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 200000 3"
+	User time (seconds): 5.48
+	System time (seconds): 124.57
+	Percent of CPU this job got: 3146%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 476
+	Voluntary context switches: 1801592
+	Involuntary context switches: 91
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 400000 iters, variant 3 
+Found 22400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 56 400000 3"
+	User time (seconds): 9.89
+	System time (seconds): 200.96
+	Percent of CPU this job got: 2947%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 546
+	Voluntary context switches: 3630708
+	Involuntary context switches: 135
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 50000 iters, variant 3 
+Found 5600000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 50000 3"
+	User time (seconds): 2.97
+	System time (seconds): 102.19
+	Percent of CPU this job got: 4473%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1580
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 451
+	Voluntary context switches: 690562
+	Involuntary context switches: 116
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100000 iters, variant 3 
+Found 11200000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 100000 3"
+	User time (seconds): 5.77
+	System time (seconds): 213.76
+	Percent of CPU this job got: 4744%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 706
+	Voluntary context switches: 1514364
+	Involuntary context switches: 164
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 200000 iters, variant 3 
+Found 22400000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 200000 3"
+	User time (seconds): 11.69
+	System time (seconds): 430.90
+	Percent of CPU this job got: 4706%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 715
+	Voluntary context switches: 3119293
+	Involuntary context switches: 434
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 400000 iters, variant 3 
+Found 44800000 updates
+Aborts: 0
+Commits: 0
+Fallbacks: 0
+	Command being timed: "./gups 1000 112 400000 3"
+	User time (seconds): 22.93
+	System time (seconds): 876.35
+	Percent of CPU this job got: 4910%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 918
+	Voluntary context switches: 6013502
+	Involuntary context switches: 659
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 50000 iters, variant 4 
+Found 50000 updates
+Aborts: 10
+Commits: 50000
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 50000 4"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 207
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 100000 iters, variant 4 
+Found 100000 updates
+Aborts: 2
+Commits: 100000
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 100000 4"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 75%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 208
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 200000 iters, variant 4 
+Found 200000 updates
+Aborts: 14
+Commits: 200000
+Fallbacks: 0
+	Command being timed: "./gups 1000 1 200000 4"
+	User time (seconds): 0.01
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 207
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 400000 iters, variant 4 
+Found 400000 updates
+Aborts: 162
+Commits: 399997
+Fallbacks: 3
+	Command being timed: "./gups 1000 1 400000 4"
+	User time (seconds): 0.02
+	System time (seconds): 0.00
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 624
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 208
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 50000 iters, variant 4 
+Found 100000 updates
+Aborts: 74713
+Commits: 71862
+Fallbacks: 28138
+	Command being timed: "./gups 1000 2 50000 4"
+	User time (seconds): 0.03
+	System time (seconds): 0.02
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 217
+	Voluntary context switches: 76
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100000 iters, variant 4 
+Found 200000 updates
+Aborts: 124733
+Commits: 154410
+Fallbacks: 45590
+	Command being timed: "./gups 1000 2 100000 4"
+	User time (seconds): 0.08
+	System time (seconds): 0.04
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 218
+	Voluntary context switches: 113
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 200000 iters, variant 4 
+Found 400000 updates
+Aborts: 247755
+Commits: 302592
+Fallbacks: 97408
+	Command being timed: "./gups 1000 2 200000 4"
+	User time (seconds): 0.15
+	System time (seconds): 0.09
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 660
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 218
+	Voluntary context switches: 71
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 400000 iters, variant 4 
+Found 800000 updates
+Aborts: 617135
+Commits: 499560
+Fallbacks: 300440
+	Command being timed: "./gups 1000 2 400000 4"
+	User time (seconds): 0.33
+	System time (seconds): 0.18
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 217
+	Voluntary context switches: 94
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 50000 iters, variant 4 
+Found 700000 updates
+Aborts: 571231
+Commits: 429357
+Fallbacks: 270643
+	Command being timed: "./gups 1000 14 50000 4"
+	User time (seconds): 0.75
+	System time (seconds): 4.05
+	Percent of CPU this job got: 1274%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.37
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 748
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 243
+	Voluntary context switches: 123533
+	Involuntary context switches: 24
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100000 iters, variant 4 
+Found 1400000 updates
+Aborts: 1176219
+Commits: 859486
+Fallbacks: 540514
+	Command being timed: "./gups 1000 14 100000 4"
+	User time (seconds): 1.40
+	System time (seconds): 8.31
+	Percent of CPU this job got: 1277%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 748
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 242
+	Voluntary context switches: 256214
+	Involuntary context switches: 21
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 200000 iters, variant 4 
+Found 2800000 updates
+Aborts: 2308115
+Commits: 1793557
+Fallbacks: 1006443
+	Command being timed: "./gups 1000 14 200000 4"
+	User time (seconds): 2.22
+	System time (seconds): 11.62
+	Percent of CPU this job got: 1288%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 744
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 242
+	Voluntary context switches: 503440
+	Involuntary context switches: 28
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 400000 iters, variant 4 
+Found 5600000 updates
+Aborts: 4758978
+Commits: 3384796
+Fallbacks: 2215204
+	Command being timed: "./gups 1000 14 400000 4"
+	User time (seconds): 4.83
+	System time (seconds): 26.11
+	Percent of CPU this job got: 1301%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.37
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 748
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 306
+	Voluntary context switches: 1019711
+	Involuntary context switches: 82
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 50000 iters, variant 4 
+Found 1400000 updates
+Aborts: 1157755
+Commits: 881976
+Fallbacks: 518024
+	Command being timed: "./gups 1000 28 50000 4"
+	User time (seconds): 1.31
+	System time (seconds): 17.48
+	Percent of CPU this job got: 2578%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.72
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 272
+	Voluntary context switches: 231139
+	Involuntary context switches: 23
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100000 iters, variant 4 
+Found 2800000 updates
+Aborts: 2289125
+Commits: 1760410
+Fallbacks: 1039590
+	Command being timed: "./gups 1000 28 100000 4"
+	User time (seconds): 2.71
+	System time (seconds): 29.63
+	Percent of CPU this job got: 2430%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 385
+	Voluntary context switches: 500548
+	Involuntary context switches: 57
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 200000 iters, variant 4 
+Found 5600000 updates
+Aborts: 4762950
+Commits: 3353084
+Fallbacks: 2246916
+	Command being timed: "./gups 1000 28 200000 4"
+	User time (seconds): 5.00
+	System time (seconds): 60.91
+	Percent of CPU this job got: 2559%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 373
+	Voluntary context switches: 987822
+	Involuntary context switches: 88
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 400000 iters, variant 4 
+Found 11200000 updates
+Aborts: 9969199
+Commits: 6473115
+Fallbacks: 4726885
+	Command being timed: "./gups 1000 28 400000 4"
+	User time (seconds): 8.03
+	System time (seconds): 93.57
+	Percent of CPU this job got: 2689%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 402
+	Voluntary context switches: 1981233
+	Involuntary context switches: 195
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 50000 iters, variant 4 
+Found 2800000 updates
+Aborts: 2431594
+Commits: 1653824
+Fallbacks: 1146176
+	Command being timed: "./gups 1000 56 50000 4"
+	User time (seconds): 2.02
+	System time (seconds): 29.68
+	Percent of CPU this job got: 2991%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 333
+	Voluntary context switches: 499947
+	Involuntary context switches: 25
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100000 iters, variant 4 
+Found 5600000 updates
+Aborts: 4907933
+Commits: 3303989
+Fallbacks: 2296011
+	Command being timed: "./gups 1000 56 100000 4"
+	User time (seconds): 4.48
+	System time (seconds): 73.43
+	Percent of CPU this job got: 3245%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 425
+	Voluntary context switches: 976818
+	Involuntary context switches: 75
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 200000 iters, variant 4 
+Found 11200000 updates
+Aborts: 9558357
+Commits: 6715075
+Fallbacks: 4484925
+	Command being timed: "./gups 1000 56 200000 4"
+	User time (seconds): 8.28
+	System time (seconds): 117.23
+	Percent of CPU this job got: 2980%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 481
+	Voluntary context switches: 1932825
+	Involuntary context switches: 155
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 400000 iters, variant 4 
+Found 22400000 updates
+Aborts: 19728992
+Commits: 13108611
+Fallbacks: 9291389
+	Command being timed: "./gups 1000 56 400000 4"
+	User time (seconds): 15.77
+	System time (seconds): 241.26
+	Percent of CPU this job got: 2996%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 539
+	Voluntary context switches: 3322643
+	Involuntary context switches: 156
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 50000 iters, variant 4 
+Found 5600000 updates
+Aborts: 4681828
+Commits: 3605369
+Fallbacks: 1994631
+	Command being timed: "./gups 1000 112 50000 4"
+	User time (seconds): 5.24
+	System time (seconds): 122.76
+	Percent of CPU this job got: 4365%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.93
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 643
+	Voluntary context switches: 981229
+	Involuntary context switches: 178
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100000 iters, variant 4 
+Found 11200000 updates
+Aborts: 8385099
+Commits: 7779795
+Fallbacks: 3420205
+	Command being timed: "./gups 1000 112 100000 4"
+	User time (seconds): 11.04
+	System time (seconds): 270.80
+	Percent of CPU this job got: 4832%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 667
+	Voluntary context switches: 1846366
+	Involuntary context switches: 288
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 200000 iters, variant 4 
+Found 22400000 updates
+Aborts: 18109179
+Commits: 14773669
+Fallbacks: 7626331
+	Command being timed: "./gups 1000 112 200000 4"
+	User time (seconds): 19.98
+	System time (seconds): 521.88
+	Percent of CPU this job got: 4699%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:11.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 834
+	Voluntary context switches: 3362445
+	Involuntary context switches: 535
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 400000 iters, variant 4 
+Found 44800000 updates
+Aborts: 34470956
+Commits: 30629350
+Fallbacks: 14170650
+	Command being timed: "./gups 1000 112 400000 4"
+	User time (seconds): 43.14
+	System time (seconds): 1070.13
+	Percent of CPU this job got: 4834%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:23.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1170
+	Voluntary context switches: 7623276
+	Involuntary context switches: 1105
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

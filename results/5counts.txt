@@ -1,0 +1,216 @@
+1000 entries, 1 threads, 100 iters, variant 2, 100 swaps
+Commits: 100, Aborts: 0, Fallback: 0, Conflict Aborts: 33
+Found 10000 updates
+1000 entries, 1 threads, 500 iters, variant 2, 100 swaps
+Commits: 500, Aborts: 0, Fallback: 0, Conflict Aborts: 0
+Found 50000 updates
+1000 entries, 1 threads, 1000 iters, variant 2, 100 swaps
+Commits: 1000, Aborts: 0, Fallback: 0, Conflict Aborts: 2
+Found 100000 updates
+1000 entries, 1 threads, 2000 iters, variant 2, 100 swaps
+Commits: 2000, Aborts: 0, Fallback: 0, Conflict Aborts: 17
+Found 200000 updates
+1000 entries, 1 threads, 100 iters, variant 2, 250 swaps
+Commits: 100, Aborts: 0, Fallback: 0, Conflict Aborts: 1
+Found 25000 updates
+1000 entries, 1 threads, 500 iters, variant 2, 250 swaps
+Commits: 500, Aborts: 0, Fallback: 0, Conflict Aborts: 4
+Found 125000 updates
+1000 entries, 1 threads, 1000 iters, variant 2, 250 swaps
+Commits: 1000, Aborts: 0, Fallback: 0, Conflict Aborts: 24
+Found 250000 updates
+1000 entries, 1 threads, 2000 iters, variant 2, 250 swaps
+Commits: 1999, Aborts: 0, Fallback: 1, Conflict Aborts: 31
+Found 500000 updates
+1000 entries, 1 threads, 100 iters, variant 2, 500 swaps
+Commits: 99, Aborts: 0, Fallback: 1, Conflict Aborts: 7
+Found 50000 updates
+1000 entries, 1 threads, 500 iters, variant 2, 500 swaps
+Commits: 499, Aborts: 0, Fallback: 1, Conflict Aborts: 28
+Found 250000 updates
+1000 entries, 1 threads, 1000 iters, variant 2, 500 swaps
+Commits: 983, Aborts: 0, Fallback: 17, Conflict Aborts: 130
+Found 500000 updates
+1000 entries, 1 threads, 2000 iters, variant 2, 500 swaps
+Commits: 1999, Aborts: 0, Fallback: 1, Conflict Aborts: 35
+Found 1000000 updates
+1000 entries, 2 threads, 100 iters, variant 2, 100 swaps
+Commits: 28, Aborts: 0, Fallback: 172, Conflict Aborts: 902
+Found 20000 updates
+1000 entries, 2 threads, 500 iters, variant 2, 100 swaps
+Commits: 87, Aborts: 0, Fallback: 913, Conflict Aborts: 4702
+Found 100000 updates
+1000 entries, 2 threads, 1000 iters, variant 2, 100 swaps
+Commits: 192, Aborts: 0, Fallback: 1808, Conflict Aborts: 9381
+Found 200000 updates
+1000 entries, 2 threads, 2000 iters, variant 2, 100 swaps
+Commits: 383, Aborts: 0, Fallback: 3617, Conflict Aborts: 18563
+Found 400000 updates
+1000 entries, 2 threads, 100 iters, variant 2, 250 swaps
+Commits: 76, Aborts: 0, Fallback: 124, Conflict Aborts: 794
+Found 50000 updates
+1000 entries, 2 threads, 500 iters, variant 2, 250 swaps
+Commits: 453, Aborts: 0, Fallback: 547, Conflict Aborts: 3450
+Found 250000 updates
+1000 entries, 2 threads, 1000 iters, variant 2, 250 swaps
+Commits: 1963, Aborts: 0, Fallback: 37, Conflict Aborts: 313
+Found 500000 updates
+1000 entries, 2 threads, 2000 iters, variant 2, 250 swaps
+Commits: 3891, Aborts: 0, Fallback: 109, Conflict Aborts: 1497
+Found 1000000 updates
+1000 entries, 2 threads, 100 iters, variant 2, 500 swaps
+Commits: 189, Aborts: 0, Fallback: 11, Conflict Aborts: 85
+Found 100000 updates
+1000 entries, 2 threads, 500 iters, variant 2, 500 swaps
+Commits: 675, Aborts: 0, Fallback: 325, Conflict Aborts: 1895
+Found 500000 updates
+1000 entries, 2 threads, 1000 iters, variant 2, 500 swaps
+Commits: 1786, Aborts: 0, Fallback: 214, Conflict Aborts: 1327
+Found 1000000 updates
+1000 entries, 2 threads, 2000 iters, variant 2, 500 swaps
+Commits: 3961, Aborts: 0, Fallback: 39, Conflict Aborts: 290
+Found 2000000 updates
+1000 entries, 14 threads, 100 iters, variant 2, 100 swaps
+Commits: 1127, Aborts: 0, Fallback: 273, Conflict Aborts: 2000
+Found 140000 updates
+1000 entries, 14 threads, 500 iters, variant 2, 100 swaps
+Commits: 5679, Aborts: 0, Fallback: 1321, Conflict Aborts: 9418
+Found 700000 updates
+1000 entries, 14 threads, 1000 iters, variant 2, 100 swaps
+Commits: 10112, Aborts: 0, Fallback: 3888, Conflict Aborts: 26517
+Found 1400000 updates
+1000 entries, 14 threads, 2000 iters, variant 2, 100 swaps
+Commits: 17402, Aborts: 0, Fallback: 10598, Conflict Aborts: 69364
+Found 2800000 updates
+1000 entries, 14 threads, 100 iters, variant 2, 250 swaps
+Commits: 1058, Aborts: 0, Fallback: 342, Conflict Aborts: 2719
+Found 350000 updates
+1000 entries, 14 threads, 500 iters, variant 2, 250 swaps
+Commits: 5411, Aborts: 0, Fallback: 1589, Conflict Aborts: 10925
+Found 1750000 updates
+1000 entries, 14 threads, 1000 iters, variant 2, 250 swaps
+Commits: 10868, Aborts: 0, Fallback: 3132, Conflict Aborts: 21480
+Found 3500000 updates
+1000 entries, 14 threads, 2000 iters, variant 2, 250 swaps
+Commits: 22257, Aborts: 0, Fallback: 5743, Conflict Aborts: 39064
+Found 7000000 updates
+1000 entries, 14 threads, 100 iters, variant 2, 500 swaps
+Commits: 1078, Aborts: 0, Fallback: 322, Conflict Aborts: 1911
+Found 700000 updates
+1000 entries, 14 threads, 500 iters, variant 2, 500 swaps
+Commits: 6110, Aborts: 0, Fallback: 890, Conflict Aborts: 8841
+Found 3500000 updates
+1000 entries, 14 threads, 1000 iters, variant 2, 500 swaps
+Commits: 13144, Aborts: 0, Fallback: 856, Conflict Aborts: 12605
+Found 7000000 updates
+1000 entries, 14 threads, 2000 iters, variant 2, 500 swaps
+Commits: 25783, Aborts: 0, Fallback: 2217, Conflict Aborts: 22511
+Found 14000000 updates
+1000 entries, 28 threads, 100 iters, variant 2, 100 swaps
+Commits: 2066, Aborts: 0, Fallback: 734, Conflict Aborts: 5129
+Found 280000 updates
+1000 entries, 28 threads, 500 iters, variant 2, 100 swaps
+Commits: 7829, Aborts: 0, Fallback: 6171, Conflict Aborts: 39094
+Found 1400000 updates
+1000 entries, 28 threads, 1000 iters, variant 2, 100 swaps
+Commits: 17856, Aborts: 0, Fallback: 10144, Conflict Aborts: 66662
+Found 2800000 updates
+1000 entries, 28 threads, 2000 iters, variant 2, 100 swaps
+Commits: 38896, Aborts: 0, Fallback: 17104, Conflict Aborts: 115800
+Found 5600000 updates
+1000 entries, 28 threads, 100 iters, variant 2, 250 swaps
+Commits: 2613, Aborts: 0, Fallback: 187, Conflict Aborts: 2548
+Found 700000 updates
+1000 entries, 28 threads, 500 iters, variant 2, 250 swaps
+Commits: 12351, Aborts: 0, Fallback: 1649, Conflict Aborts: 14550
+Found 3500000 updates
+1000 entries, 28 threads, 1000 iters, variant 2, 250 swaps
+Commits: 23393, Aborts: 0, Fallback: 4607, Conflict Aborts: 36877
+Found 7000000 updates
+1000 entries, 28 threads, 2000 iters, variant 2, 250 swaps
+Commits: 49318, Aborts: 0, Fallback: 6682, Conflict Aborts: 63136
+Found 14000000 updates
+1000 entries, 28 threads, 100 iters, variant 2, 500 swaps
+Commits: 2545, Aborts: 0, Fallback: 255, Conflict Aborts: 2703
+Found 1400000 updates
+1000 entries, 28 threads, 500 iters, variant 2, 500 swaps
+Commits: 12317, Aborts: 0, Fallback: 1683, Conflict Aborts: 14214
+Found 7000000 updates
+1000 entries, 28 threads, 1000 iters, variant 2, 500 swaps
+Commits: 25154, Aborts: 0, Fallback: 2846, Conflict Aborts: 28835
+Found 14000000 updates
+1000 entries, 28 threads, 2000 iters, variant 2, 500 swaps
+Commits: 50481, Aborts: 0, Fallback: 5519, Conflict Aborts: 56646
+Found 28000000 updates
+1000 entries, 56 threads, 100 iters, variant 2, 100 swaps
+Commits: 5090, Aborts: 0, Fallback: 510, Conflict Aborts: 4057
+Found 560000 updates
+1000 entries, 56 threads, 500 iters, variant 2, 100 swaps
+Commits: 18419, Aborts: 0, Fallback: 9581, Conflict Aborts: 61731
+Found 2800000 updates
+1000 entries, 56 threads, 1000 iters, variant 2, 100 swaps
+Commits: 33664, Aborts: 0, Fallback: 22336, Conflict Aborts: 139911
+Found 5600000 updates
+1000 entries, 56 threads, 2000 iters, variant 2, 100 swaps
+Commits: 60218, Aborts: 0, Fallback: 51782, Conflict Aborts: 320880
+Found 11200000 updates
+1000 entries, 56 threads, 100 iters, variant 2, 250 swaps
+Commits: 4869, Aborts: 0, Fallback: 731, Conflict Aborts: 6208
+Found 1400000 updates
+1000 entries, 56 threads, 500 iters, variant 2, 250 swaps
+Commits: 19754, Aborts: 0, Fallback: 8246, Conflict Aborts: 53459
+Found 7000000 updates
+1000 entries, 56 threads, 1000 iters, variant 2, 250 swaps
+Commits: 41544, Aborts: 0, Fallback: 14456, Conflict Aborts: 96207
+Found 14000000 updates
+1000 entries, 56 threads, 2000 iters, variant 2, 250 swaps
+Commits: 80189, Aborts: 0, Fallback: 31811, Conflict Aborts: 210064
+Found 28000000 updates
+1000 entries, 56 threads, 100 iters, variant 2, 500 swaps
+Commits: 4502, Aborts: 0, Fallback: 1098, Conflict Aborts: 7122
+Found 2800000 updates
+1000 entries, 56 threads, 500 iters, variant 2, 500 swaps
+Commits: 21979, Aborts: 0, Fallback: 6021, Conflict Aborts: 38737
+Found 14000000 updates
+1000 entries, 56 threads, 1000 iters, variant 2, 500 swaps
+Commits: 44458, Aborts: 0, Fallback: 11542, Conflict Aborts: 76397
+Found 28000000 updates
+1000 entries, 56 threads, 2000 iters, variant 2, 500 swaps
+Commits: 86941, Aborts: 0, Fallback: 25059, Conflict Aborts: 157994
+Found 56000000 updates
+1000 entries, 112 threads, 100 iters, variant 2, 100 swaps
+Commits: 6021, Aborts: 0, Fallback: 5179, Conflict Aborts: 31859
+Found 1120000 updates
+1000 entries, 112 threads, 500 iters, variant 2, 100 swaps
+Commits: 29732, Aborts: 0, Fallback: 26268, Conflict Aborts: 161541
+Found 5600000 updates
+1000 entries, 112 threads, 1000 iters, variant 2, 100 swaps
+Commits: 59419, Aborts: 0, Fallback: 52581, Conflict Aborts: 322062
+Found 11200000 updates
+1000 entries, 112 threads, 2000 iters, variant 2, 100 swaps
+Commits: 117605, Aborts: 0, Fallback: 106395, Conflict Aborts: 652016
+Found 22400000 updates
+1000 entries, 112 threads, 100 iters, variant 2, 250 swaps
+Commits: 7754, Aborts: 0, Fallback: 3446, Conflict Aborts: 22233
+Found 2800000 updates
+1000 entries, 112 threads, 500 iters, variant 2, 250 swaps
+Commits: 38572, Aborts: 0, Fallback: 17428, Conflict Aborts: 111974
+Found 14000000 updates
+1000 entries, 112 threads, 1000 iters, variant 2, 250 swaps
+Commits: 77554, Aborts: 0, Fallback: 34446, Conflict Aborts: 222435
+Found 28000000 updates
+1000 entries, 112 threads, 2000 iters, variant 2, 250 swaps
+Commits: 155819, Aborts: 0, Fallback: 68181, Conflict Aborts: 442652
+Found 56000000 updates
+1000 entries, 112 threads, 100 iters, variant 2, 500 swaps
+Commits: 8656, Aborts: 0, Fallback: 2544, Conflict Aborts: 15191
+Found 5600000 updates
+1000 entries, 112 threads, 500 iters, variant 2, 500 swaps
+Commits: 43706, Aborts: 0, Fallback: 12294, Conflict Aborts: 74343
+Found 28000000 updates
+1000 entries, 112 threads, 1000 iters, variant 2, 500 swaps
+Commits: 86743, Aborts: 0, Fallback: 25257, Conflict Aborts: 153274
+Found 56000000 updates
+1000 entries, 112 threads, 2000 iters, variant 2, 500 swaps
+Commits: 174415, Aborts: 0, Fallback: 49585, Conflict Aborts: 297858
+Found 112000000 updates

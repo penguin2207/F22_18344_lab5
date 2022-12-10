@@ -1,0 +1,3744 @@
+1000 entries, 1 threads, 1000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 100000 updates	
+	Command being timed: "./swaps 1000 1 100 1 100"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 213
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 500 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 50000 updates	
+	Command being timed: "./swaps 1000 1 500 1 100"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 87%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 212
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 1000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 100000 updates
+	Command being timed: "./swaps 1000 1 1000 1 100"
+	User time (seconds): 0.01
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 212
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 2000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 200000 updates
+	Command being timed: "./swaps 1000 1 2000 1 100"
+	User time (seconds): 0.03
+	System time (seconds): 0.00
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 640
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 212
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 100 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 25000 updates
+	Command being timed: "./swaps 1000 1 100 1 250"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 231
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 500 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 125000 updates
+	Command being timed: "./swaps 1000 1 500 1 250"
+	User time (seconds): 0.03
+	System time (seconds): 0.00
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 708
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 230
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 1000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 250000 updates
+	Command being timed: "./swaps 1000 1 1000 1 250"
+	User time (seconds): 0.06
+	System time (seconds): 0.00
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 231
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 2000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 500000 updates
+	Command being timed: "./swaps 1000 1 2000 1 250"
+	User time (seconds): 0.13
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 230
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 100 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 50000 updates
+	Command being timed: "./swaps 1000 1 100 1 500"
+	User time (seconds): 0.03
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 231
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 500 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 250000 updates
+	Command being timed: "./swaps 1000 1 500 1 500"
+	User time (seconds): 0.15
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 231
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 1000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 500000 updates
+	Command being timed: "./swaps 1000 1 1000 1 500"
+	User time (seconds): 0.40
+	System time (seconds): 0.00
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 716
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 231
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 2000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1000000 updates
+	Command being timed: "./swaps 1000 1 2000 1 500"
+	User time (seconds): 0.60
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 231
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 20000 updates
+	Command being timed: "./swaps 1000 2 100 1 100"
+	User time (seconds): 0.01
+	System time (seconds): 0.00
+	Percent of CPU this job got: 200%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228
+	Voluntary context switches: 4
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 500 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 100000 updates
+	Command being timed: "./swaps 1000 2 500 1 100"
+	User time (seconds): 0.04
+	System time (seconds): 0.01
+	Percent of CPU this job got: 200%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229
+	Voluntary context switches: 6
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 1000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 200000 updates
+	Command being timed: "./swaps 1000 2 1000 1 100"
+	User time (seconds): 0.07
+	System time (seconds): 0.03
+	Percent of CPU this job got: 200%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 228
+	Voluntary context switches: 8
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 2000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 400000 updates
+	Command being timed: "./swaps 1000 2 2000 1 100"
+	User time (seconds): 0.12
+	System time (seconds): 0.07
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 226
+	Voluntary context switches: 6
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 50000 updates
+	Command being timed: "./swaps 1000 2 100 1 250"
+	User time (seconds): 0.01
+	System time (seconds): 0.02
+	Percent of CPU this job got: 195%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 780
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 257
+	Voluntary context switches: 5
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 500 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 250000 updates
+	Command being timed: "./swaps 1000 2 500 1 250"
+	User time (seconds): 0.12
+	System time (seconds): 0.03
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 780
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 259
+	Voluntary context switches: 7
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 1000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 500000 updates
+	Command being timed: "./swaps 1000 2 1000 1 250"
+	User time (seconds): 0.26
+	System time (seconds): 0.14
+	Percent of CPU this job got: 199%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 780
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 258
+	Voluntary context switches: 14
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 2000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1000000 updates
+	Command being timed: "./swaps 1000 2 2000 1 250"
+	User time (seconds): 0.55
+	System time (seconds): 0.27
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 780
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 260
+	Voluntary context switches: 1929
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 100000 updates
+	Command being timed: "./swaps 1000 2 100 1 500"
+	User time (seconds): 0.09
+	System time (seconds): 0.00
+	Percent of CPU this job got: 197%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 259
+	Voluntary context switches: 7
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 500 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 500000 updates
+	Command being timed: "./swaps 1000 2 500 1 500"
+	User time (seconds): 0.51
+	System time (seconds): 0.03
+	Percent of CPU this job got: 199%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 255
+	Voluntary context switches: 16
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 1000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1000000 updates
+	Command being timed: "./swaps 1000 2 1000 1 500"
+	User time (seconds): 1.02
+	System time (seconds): 0.13
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 258
+	Voluntary context switches: 791
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 2000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2000000 updates
+	Command being timed: "./swaps 1000 2 2000 1 500"
+	User time (seconds): 1.92
+	System time (seconds): 0.18
+	Percent of CPU this job got: 194%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 292
+	Voluntary context switches: 7749
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 140000 updates
+	Command being timed: "./swaps 1000 14 100 1 100"
+	User time (seconds): 0.09
+	System time (seconds): 0.53
+	Percent of CPU this job got: 1295%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.04
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 884
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 286
+	Voluntary context switches: 25421
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 500 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 700000 updates
+	Command being timed: "./swaps 1000 14 500 1 100"
+	User time (seconds): 0.53
+	System time (seconds): 2.74
+	Percent of CPU this job got: 1316%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 884
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 283
+	Voluntary context switches: 133703
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 1000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1400000 updates
+	Command being timed: "./swaps 1000 14 1000 1 100"
+	User time (seconds): 1.08
+	System time (seconds): 5.63
+	Percent of CPU this job got: 1316%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 884
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 287
+	Voluntary context switches: 267032
+	Involuntary context switches: 25
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 2000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 14 2000 1 100"
+	User time (seconds): 2.05
+	System time (seconds): 11.92
+	Percent of CPU this job got: 1308%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 884
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 347
+	Voluntary context switches: 493322
+	Involuntary context switches: 40
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 350000 updates
+	Command being timed: "./swaps 1000 14 100 1 250"
+	User time (seconds): 0.39
+	System time (seconds): 1.86
+	Percent of CPU this job got: 1294%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1096
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 361
+	Voluntary context switches: 95099
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 500 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1750000 updates
+	Command being timed: "./swaps 1000 14 500 1 250"
+	User time (seconds): 2.01
+	System time (seconds): 10.20
+	Percent of CPU this job got: 1309%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.93
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 361
+	Voluntary context switches: 475603
+	Involuntary context switches: 43
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 1000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 3500000 updates
+	Command being timed: "./swaps 1000 14 1000 1 250"
+	User time (seconds): 3.70
+	System time (seconds): 23.48
+	Percent of CPU this job got: 1314%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1100
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 455
+	Voluntary context switches: 788383
+	Involuntary context switches: 54
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 2000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 14 2000 1 250"
+	User time (seconds): 7.93
+	System time (seconds): 50.28
+	Percent of CPU this job got: 1318%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1072
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 521
+	Voluntary context switches: 1659779
+	Involuntary context switches: 50
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 700000 updates
+	Command being timed: "./swaps 1000 14 100 1 500"
+	User time (seconds): 1.47
+	System time (seconds): 6.75
+	Percent of CPU this job got: 1313%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1120
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 343
+	Voluntary context switches: 303854
+	Involuntary context switches: 30
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 500 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 3500000 updates
+	Command being timed: "./swaps 1000 14 500 1 500"
+	User time (seconds): 7.22
+	System time (seconds): 38.16
+	Percent of CPU this job got: 1295%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1128
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 556
+	Voluntary context switches: 1482361
+	Involuntary context switches: 67
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 1000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 14 1000 1 500"
+	User time (seconds): 14.26
+	System time (seconds): 84.31
+	Percent of CPU this job got: 1314%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1152
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 770
+	Voluntary context switches: 2628061
+	Involuntary context switches: 63
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 2000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 14 2000 1 500"
+	User time (seconds): 27.81
+	System time (seconds): 172.33
+	Percent of CPU this job got: 1316%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1136
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 960
+	Voluntary context switches: 5032707
+	Involuntary context switches: 131
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 280000 updates
+	Command being timed: "./swaps 1000 28 100 1 100"
+	User time (seconds): 0.18
+	System time (seconds): 2.07
+	Percent of CPU this job got: 2137%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1084
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 367
+	Voluntary context switches: 59474
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 500 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1400000 updates
+	Command being timed: "./swaps 1000 28 500 1 100"
+	User time (seconds): 1.03
+	System time (seconds): 14.51
+	Percent of CPU this job got: 2561%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 357
+	Voluntary context switches: 243064
+	Involuntary context switches: 11
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 1000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 28 1000 1 100"
+	User time (seconds): 1.91
+	System time (seconds): 27.96
+	Percent of CPU this job got: 2523%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1156
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 487
+	Voluntary context switches: 497666
+	Involuntary context switches: 54
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 2000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 5600000 updates
+	Command being timed: "./swaps 1000 28 2000 1 100"
+	User time (seconds): 4.00
+	System time (seconds): 64.97
+	Percent of CPU this job got: 2669%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1156
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 505
+	Voluntary context switches: 903373
+	Involuntary context switches: 183
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 700000 updates
+	Command being timed: "./swaps 1000 28 100 1 250"
+	User time (seconds): 0.77
+	System time (seconds): 9.34
+	Percent of CPU this job got: 2479%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 445
+	Voluntary context switches: 191169
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 500 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 3500000 updates
+	Command being timed: "./swaps 1000 28 500 1 250"
+	User time (seconds): 3.75
+	System time (seconds): 51.61
+	Percent of CPU this job got: 2631%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 617
+	Voluntary context switches: 867599
+	Involuntary context switches: 45
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 1000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 28 1000 1 250"
+	User time (seconds): 7.79
+	System time (seconds): 112.98
+	Percent of CPU this job got: 2647%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1452
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 756
+	Voluntary context switches: 1772966
+	Involuntary context switches: 269
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 2000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 28 2000 1 250"
+	User time (seconds): 16.23
+	System time (seconds): 242.42
+	Percent of CPU this job got: 2691%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1464
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1237
+	Voluntary context switches: 3413128
+	Involuntary context switches: 964
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1400000 updates
+	Command being timed: "./swaps 1000 28 100 1 500"
+	User time (seconds): 2.84
+	System time (seconds): 27.54
+	Percent of CPU this job got: 2617%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1540
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 693
+	Voluntary context switches: 636119
+	Involuntary context switches: 74
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 500 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 28 500 1 500"
+	User time (seconds): 13.73
+	System time (seconds): 185.16
+	Percent of CPU this job got: 2679%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1552
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1026
+	Voluntary context switches: 2520018
+	Involuntary context switches: 478
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 1000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 28 1000 1 500"
+	User time (seconds): 28.89
+	System time (seconds): 389.61
+	Percent of CPU this job got: 2702%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1536
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1614
+	Voluntary context switches: 5199364
+	Involuntary context switches: 1498
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 2000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 28 2000 1 500"
+	User time (seconds): 57.38
+	System time (seconds): 788.70
+	Percent of CPU this job got: 2703%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:31.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1560
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2269
+	Voluntary context switches: 10063297
+	Involuntary context switches: 2960
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 560000 updates
+	Command being timed: "./swaps 1000 56 100 1 100"
+	User time (seconds): 0.39
+	System time (seconds): 8.04
+	Percent of CPU this job got: 3399%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1680
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 544
+	Voluntary context switches: 93147
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 500 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 56 500 1 100"
+	User time (seconds): 2.17
+	System time (seconds): 64.17
+	Percent of CPU this job got: 4669%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 744
+	Voluntary context switches: 468035
+	Involuntary context switches: 24
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 1000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 5600000 updates
+	Command being timed: "./swaps 1000 56 1000 1 100"
+	User time (seconds): 4.08
+	System time (seconds): 123.70
+	Percent of CPU this job got: 4743%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.69
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1580
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 777
+	Voluntary context switches: 841703
+	Involuntary context switches: 87
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 2000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 11200000 updates
+	Command being timed: "./swaps 1000 56 2000 1 100"
+	User time (seconds): 8.65
+	System time (seconds): 259.98
+	Percent of CPU this job got: 4787%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.61
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1580
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 856
+	Voluntary context switches: 1721061
+	Involuntary context switches: 155
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1400000 updates
+	Command being timed: "./swaps 1000 56 100 1 250"
+	User time (seconds): 1.60
+	System time (seconds): 45.62
+	Percent of CPU this job got: 4884%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.96
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2236
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 688
+	Voluntary context switches: 316148
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 500 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 56 500 1 250"
+	User time (seconds): 8.08
+	System time (seconds): 225.39
+	Percent of CPU this job got: 4818%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1277
+	Voluntary context switches: 1680935
+	Involuntary context switches: 93
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 1000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 56 1000 1 250"
+	User time (seconds): 16.15
+	System time (seconds): 460.45
+	Percent of CPU this job got: 4955%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.61
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2068
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1545
+	Voluntary context switches: 3237676
+	Involuntary context switches: 153
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 2000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 56 2000 1 250"
+	User time (seconds): 30.59
+	System time (seconds): 935.07
+	Percent of CPU this job got: 5009%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:19.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1800
+	Voluntary context switches: 5617745
+	Involuntary context switches: 356
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 56 100 1 500"
+	User time (seconds): 5.53
+	System time (seconds): 145.12
+	Percent of CPU this job got: 4705%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2408
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1091
+	Voluntary context switches: 987881
+	Involuntary context switches: 59
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 500 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 56 500 1 500"
+	User time (seconds): 28.94
+	System time (seconds): 693.34
+	Percent of CPU this job got: 4562%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2288
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1791
+	Voluntary context switches: 5176765
+	Involuntary context switches: 511
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 1000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 56 1000 1 500"
+	User time (seconds): 59.84
+	System time (seconds): 1506.26
+	Percent of CPU this job got: 4878%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:32.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2236
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2601
+	Voluntary context switches: 10744540
+	Involuntary context switches: 678
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 2000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 56000000 updates
+	Command being timed: "./swaps 1000 56 2000 1 500"
+	User time (seconds): 116.99
+	System time (seconds): 3094.14
+	Percent of CPU this job got: 5075%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:03.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2376
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3526
+	Voluntary context switches: 20442576
+	Involuntary context switches: 1073
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1120000 updates
+	Command being timed: "./swaps 1000 112 100 1 100"
+	User time (seconds): 0.84
+	System time (seconds): 28.02
+	Percent of CPU this job got: 5137%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 801
+	Voluntary context switches: 185770
+	Involuntary context switches: 15
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 500 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 5600000 updates
+	Command being timed: "./swaps 1000 112 500 1 100"
+	User time (seconds): 4.11
+	System time (seconds): 144.57
+	Percent of CPU this job got: 5438%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2900
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1061
+	Voluntary context switches: 884647
+	Involuntary context switches: 118
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 1000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 11200000 updates
+	Command being timed: "./swaps 1000 112 1000 1 100"
+	User time (seconds): 8.35
+	System time (seconds): 293.97
+	Percent of CPU this job got: 5358%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.64
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2780
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1069
+	Voluntary context switches: 1773374
+	Involuntary context switches: 195
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 2000 iters, variant 1, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 22400000 updates
+	Command being timed: "./swaps 1000 112 2000 1 100"
+	User time (seconds): 16.68
+	System time (seconds): 591.30
+	Percent of CPU this job got: 5397%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:11.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2840
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1530
+	Voluntary context switches: 3916260
+	Involuntary context switches: 428
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 112 100 1 250"
+	User time (seconds): 3.04
+	System time (seconds): 99.19
+	Percent of CPU this job got: 5347%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.91
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3896
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1240
+	Voluntary context switches: 642713
+	Involuntary context switches: 37
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 500 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 112 500 1 250"
+	User time (seconds): 15.69
+	System time (seconds): 499.90
+	Percent of CPU this job got: 5388%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3764
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1705
+	Voluntary context switches: 3148754
+	Involuntary context switches: 280
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 1000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 112 1000 1 250"
+	User time (seconds): 31.11
+	System time (seconds): 1012.61
+	Percent of CPU this job got: 5391%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:19.36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3848
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2805
+	Voluntary context switches: 6613317
+	Involuntary context switches: 598
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 2000 iters, variant 1, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 56000000 updates
+	Command being timed: "./swaps 1000 112 2000 1 250"
+	User time (seconds): 62.70
+	System time (seconds): 1993.33
+	Percent of CPU this job got: 5349%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:38.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3896
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3856
+	Voluntary context switches: 13097950
+	Involuntary context switches: 1276
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 5600000 updates
+	Command being timed: "./swaps 1000 112 100 1 500"
+	User time (seconds): 11.74
+	System time (seconds): 326.94
+	Percent of CPU this job got: 5370%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4160
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2018
+	Voluntary context switches: 1976135
+	Involuntary context switches: 220
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 500 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 112 500 1 500"
+	User time (seconds): 57.53
+	System time (seconds): 1626.94
+	Percent of CPU this job got: 5389%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:31.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4080
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3897
+	Voluntary context switches: 10388151
+	Involuntary context switches: 975
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 1000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 56000000 updates
+	Command being timed: "./swaps 1000 112 1000 1 500"
+	User time (seconds): 110.87
+	System time (seconds): 3314.35
+	Percent of CPU this job got: 5416%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:03.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4248
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5428
+	Voluntary context switches: 18809396
+	Involuntary context switches: 1940
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 2000 iters, variant 1, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 112000000 updates
+	Command being timed: "./swaps 1000 112 2000 1 500"
+	User time (seconds): 232.36
+	System time (seconds): 6600.20
+	Percent of CPU this job got: 5392%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:06.70
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4216
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6878
+	Voluntary context switches: 42360426
+	Involuntary context switches: 3988
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 100 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 10000 updates
+	Command being timed: "./swaps 1000 1 100 2 100"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 628
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 208
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 500 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 50000 updates
+	Command being timed: "./swaps 1000 1 500 2 100"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 213
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 1000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 100000 updates
+	Command being timed: "./swaps 1000 1 1000 2 100"
+	User time (seconds): 0.01
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 628
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 208
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 2000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 200000 updates
+	Command being timed: "./swaps 1000 1 2000 2 100"
+	User time (seconds): 0.02
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 212
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 100 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 25000 updates
+	Command being timed: "./swaps 1000 1 100 2 250"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 628
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 208
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 500 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 125000 updates
+	Command being timed: "./swaps 1000 1 500 2 250"
+	User time (seconds): 0.02
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 230
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 1000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 250000 updates
+	Command being timed: "./swaps 1000 1 1000 2 250"
+	User time (seconds): 0.05
+	System time (seconds): 0.00
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 230
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 2000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 500000 updates
+	Command being timed: "./swaps 1000 1 2000 2 250"
+	User time (seconds): 0.10
+	System time (seconds): 0.00
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 230
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 100 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 50000 updates
+	Command being timed: "./swaps 1000 1 100 2 500"
+	User time (seconds): 0.02
+	System time (seconds): 0.00
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 230
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 500 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 250000 updates
+	Command being timed: "./swaps 1000 1 500 2 500"
+	User time (seconds): 0.14
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.14
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 716
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 231
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 1000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 500000 updates
+	Command being timed: "./swaps 1000 1 1000 2 500"
+	User time (seconds): 0.28
+	System time (seconds): 0.00
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 716
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 231
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 1 threads, 2000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1000000 updates
+	Command being timed: "./swaps 1000 1 2000 2 500"
+	User time (seconds): 0.61
+	System time (seconds): 0.00
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.61
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 230
+	Voluntary context switches: 1
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 20000 updates
+	Command being timed: "./swaps 1000 2 100 2 100"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 187%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 226
+	Voluntary context switches: 5
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 500 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 100000 updates
+	Command being timed: "./swaps 1000 2 500 2 100"
+	User time (seconds): 0.06
+	System time (seconds): 0.04
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 225
+	Voluntary context switches: 10
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 1000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 200000 updates
+	Command being timed: "./swaps 1000 2 1000 2 100"
+	User time (seconds): 0.07
+	System time (seconds): 0.07
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 230
+	Voluntary context switches: 7
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 2000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 400000 updates
+	Command being timed: "./swaps 1000 2 2000 2 100"
+	User time (seconds): 0.14
+	System time (seconds): 0.06
+	Percent of CPU this job got: 199%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 225
+	Voluntary context switches: 13
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 50000 updates
+	Command being timed: "./swaps 1000 2 100 2 250"
+	User time (seconds): 0.02
+	System time (seconds): 0.01
+	Percent of CPU this job got: 200%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 772
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 247
+	Voluntary context switches: 6
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 500 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 250000 updates
+	Command being timed: "./swaps 1000 2 500 2 250"
+	User time (seconds): 0.14
+	System time (seconds): 0.06
+	Percent of CPU this job got: 199%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 772
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 246
+	Voluntary context switches: 7
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 1000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 500000 updates
+	Command being timed: "./swaps 1000 2 1000 2 250"
+	User time (seconds): 0.26
+	System time (seconds): 0.15
+	Percent of CPU this job got: 199%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 772
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 246
+	Voluntary context switches: 17
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 2000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1000000 updates
+	Command being timed: "./swaps 1000 2 2000 2 250"
+	User time (seconds): 0.54
+	System time (seconds): 0.36
+	Percent of CPU this job got: 199%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.45
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 772
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 247
+	Voluntary context switches: 81
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 100 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 100000 updates
+	Command being timed: "./swaps 1000 2 100 2 500"
+	User time (seconds): 0.10
+	System time (seconds): 0.01
+	Percent of CPU this job got: 198%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 780
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 248
+	Voluntary context switches: 40
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 500 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 500000 updates
+	Command being timed: "./swaps 1000 2 500 2 500"
+	User time (seconds): 0.49
+	System time (seconds): 0.04
+	Percent of CPU this job got: 200%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 780
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 248
+	Voluntary context switches: 17
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 1000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1000000 updates
+	Command being timed: "./swaps 1000 2 1000 2 500"
+	User time (seconds): 0.99
+	System time (seconds): 0.23
+	Percent of CPU this job got: 194%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 780
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 248
+	Voluntary context switches: 6387
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 2 threads, 2000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2000000 updates
+	Command being timed: "./swaps 1000 2 2000 2 500"
+	User time (seconds): 2.24
+	System time (seconds): 0.76
+	Percent of CPU this job got: 192%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 292
+	Voluntary context switches: 15491
+	Involuntary context switches: 5
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 140000 updates
+	Command being timed: "./swaps 1000 14 100 2 100"
+	User time (seconds): 0.10
+	System time (seconds): 0.55
+	Percent of CPU this job got: 1292%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 284
+	Voluntary context switches: 27577
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 500 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 700000 updates
+	Command being timed: "./swaps 1000 14 500 2 100"
+	User time (seconds): 0.49
+	System time (seconds): 2.84
+	Percent of CPU this job got: 1311%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 880
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 285
+	Voluntary context switches: 138559
+	Involuntary context switches: 11
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 1000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1400000 updates
+	Command being timed: "./swaps 1000 14 1000 2 100"
+	User time (seconds): 1.01
+	System time (seconds): 5.62
+	Percent of CPU this job got: 1315%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 876
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 281
+	Voluntary context switches: 256119
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 2000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 14 2000 2 100"
+	User time (seconds): 1.92
+	System time (seconds): 13.22
+	Percent of CPU this job got: 1316%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 884
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 349
+	Voluntary context switches: 469953
+	Involuntary context switches: 21
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 350000 updates
+	Command being timed: "./swaps 1000 14 100 2 250"
+	User time (seconds): 0.39
+	System time (seconds): 1.90
+	Percent of CPU this job got: 1301%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 335
+	Voluntary context switches: 93068
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 500 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1750000 updates
+	Command being timed: "./swaps 1000 14 500 2 250"
+	User time (seconds): 1.89
+	System time (seconds): 10.68
+	Percent of CPU this job got: 1312%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.95
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 325
+	Voluntary context switches: 404629
+	Involuntary context switches: 16
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 1000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 3500000 updates
+	Command being timed: "./swaps 1000 14 1000 2 250"
+	User time (seconds): 3.69
+	System time (seconds): 25.27
+	Percent of CPU this job got: 1315%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1032
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 424
+	Voluntary context switches: 801374
+	Involuntary context switches: 20
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 2000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 14 2000 2 250"
+	User time (seconds): 7.78
+	System time (seconds): 51.33
+	Percent of CPU this job got: 1315%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.49
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 593
+	Voluntary context switches: 1616438
+	Involuntary context switches: 61
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 100 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 700000 updates
+	Command being timed: "./swaps 1000 14 100 2 500"
+	User time (seconds): 1.38
+	System time (seconds): 6.42
+	Percent of CPU this job got: 1305%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 342
+	Voluntary context switches: 286639
+	Involuntary context switches: 20
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 500 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 3500000 updates
+	Command being timed: "./swaps 1000 14 500 2 500"
+	User time (seconds): 6.73
+	System time (seconds): 40.04
+	Percent of CPU this job got: 1322%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1112
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 559
+	Voluntary context switches: 1259153
+	Involuntary context switches: 57
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 1000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 14 1000 2 500"
+	User time (seconds): 13.92
+	System time (seconds): 68.35
+	Percent of CPU this job got: 1316%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 645
+	Voluntary context switches: 2937041
+	Involuntary context switches: 61
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 14 threads, 2000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 14 2000 2 500"
+	User time (seconds): 27.60
+	System time (seconds): 174.53
+	Percent of CPU this job got: 1313%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:15.38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 849
+	Voluntary context switches: 5424054
+	Involuntary context switches: 68
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 280000 updates
+	Command being timed: "./swaps 1000 28 100 2 100"
+	User time (seconds): 0.20
+	System time (seconds): 3.34
+	Percent of CPU this job got: 2644%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1060
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 378
+	Voluntary context switches: 47235
+	Involuntary context switches: 8
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 500 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1400000 updates
+	Command being timed: "./swaps 1000 28 500 2 100"
+	User time (seconds): 0.91
+	System time (seconds): 11.89
+	Percent of CPU this job got: 2458%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.52
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1148
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 368
+	Voluntary context switches: 274147
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 1000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 28 1000 2 100"
+	User time (seconds): 1.88
+	System time (seconds): 28.49
+	Percent of CPU this job got: 2585%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1144
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 462
+	Voluntary context switches: 520913
+	Involuntary context switches: 31
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 2000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 5600000 updates
+	Command being timed: "./swaps 1000 28 2000 2 100"
+	User time (seconds): 4.00
+	System time (seconds): 60.51
+	Percent of CPU this job got: 2655%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1144
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 503
+	Voluntary context switches: 1013227
+	Involuntary context switches: 139
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 700000 updates
+	Command being timed: "./swaps 1000 28 100 2 250"
+	User time (seconds): 0.66
+	System time (seconds): 9.54
+	Percent of CPU this job got: 2663%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1312
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 434
+	Voluntary context switches: 185051
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 500 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 3500000 updates
+	Command being timed: "./swaps 1000 28 500 2 250"
+	User time (seconds): 3.45
+	System time (seconds): 55.49
+	Percent of CPU this job got: 2690%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.19
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1388
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 618
+	Voluntary context switches: 813957
+	Involuntary context switches: 109
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 1000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 28 1000 2 250"
+	User time (seconds): 7.44
+	System time (seconds): 116.22
+	Percent of CPU this job got: 2698%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 940
+	Voluntary context switches: 1682051
+	Involuntary context switches: 420
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 2000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 28 2000 2 250"
+	User time (seconds): 14.02
+	System time (seconds): 220.05
+	Percent of CPU this job got: 2687%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.71
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1396
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1078
+	Voluntary context switches: 3325573
+	Involuntary context switches: 633
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 100 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1400000 updates
+	Command being timed: "./swaps 1000 28 100 2 500"
+	User time (seconds): 2.72
+	System time (seconds): 29.32
+	Percent of CPU this job got: 2582%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1400
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 691
+	Voluntary context switches: 599866
+	Involuntary context switches: 39
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 500 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 28 500 2 500"
+	User time (seconds): 13.58
+	System time (seconds): 190.96
+	Percent of CPU this job got: 2700%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1568
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1303
+	Voluntary context switches: 2662993
+	Involuntary context switches: 647
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 1000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 28 1000 2 500"
+	User time (seconds): 27.33
+	System time (seconds): 358.83
+	Percent of CPU this job got: 2694%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:14.33
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1448
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1426
+	Voluntary context switches: 5893390
+	Involuntary context switches: 1102
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 28 threads, 2000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 28 2000 2 500"
+	User time (seconds): 55.36
+	System time (seconds): 780.30
+	Percent of CPU this job got: 2707%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:30.86
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1564
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2795
+	Voluntary context switches: 10674609
+	Involuntary context switches: 2973
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 560000 updates
+	Command being timed: "./swaps 1000 56 100 2 100"
+	User time (seconds): 0.32
+	System time (seconds): 5.74
+	Percent of CPU this job got: 2800%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1692
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 583
+	Voluntary context switches: 120264
+	Involuntary context switches: 7
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 500 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 56 500 2 100"
+	User time (seconds): 2.02
+	System time (seconds): 64.72
+	Percent of CPU this job got: 4890%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1636
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 735
+	Voluntary context switches: 432069
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 1000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 5600000 updates
+	Command being timed: "./swaps 1000 56 1000 2 100"
+	User time (seconds): 4.33
+	System time (seconds): 131.63
+	Percent of CPU this job got: 4787%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1636
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 725
+	Voluntary context switches: 972541
+	Involuntary context switches: 91
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 2000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 11200000 updates
+	Command being timed: "./swaps 1000 56 2000 2 100"
+	User time (seconds): 7.52
+	System time (seconds): 263.22
+	Percent of CPU this job got: 4934%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1680
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 919
+	Voluntary context switches: 1473154
+	Involuntary context switches: 124
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1400000 updates
+	Command being timed: "./swaps 1000 56 100 2 250"
+	User time (seconds): 1.43
+	System time (seconds): 39.73
+	Percent of CPU this job got: 4480%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.91
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2152
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 648
+	Voluntary context switches: 293175
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 500 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 7000000 updates
+	Command being timed: "./swaps 1000 56 500 2 250"
+	User time (seconds): 7.72
+	System time (seconds): 234.58
+	Percent of CPU this job got: 4997%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2216
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1191
+	Voluntary context switches: 1629001
+	Involuntary context switches: 103
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 1000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 56 1000 2 250"
+	User time (seconds): 15.07
+	System time (seconds): 451.21
+	Percent of CPU this job got: 4846%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2256
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1682
+	Voluntary context switches: 3285380
+	Involuntary context switches: 184
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 2000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 56 2000 2 250"
+	User time (seconds): 30.08
+	System time (seconds): 916.06
+	Percent of CPU this job got: 4904%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:19.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2224
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1860
+	Voluntary context switches: 6525655
+	Involuntary context switches: 407
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 100 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 56 100 2 500"
+	User time (seconds): 5.28
+	System time (seconds): 144.19
+	Percent of CPU this job got: 4709%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2384
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1151
+	Voluntary context switches: 916141
+	Involuntary context switches: 83
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 500 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 56 500 2 500"
+	User time (seconds): 27.42
+	System time (seconds): 785.49
+	Percent of CPU this job got: 5029%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:16.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2372
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1911
+	Voluntary context switches: 4785668
+	Involuntary context switches: 303
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 1000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 56 1000 2 500"
+	User time (seconds): 56.65
+	System time (seconds): 1557.05
+	Percent of CPU this job got: 5005%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:32.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2356
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2591
+	Voluntary context switches: 10256727
+	Involuntary context switches: 560
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 56 threads, 2000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 56000000 updates
+	Command being timed: "./swaps 1000 56 2000 2 500"
+	User time (seconds): 112.57
+	System time (seconds): 3109.50
+	Percent of CPU this job got: 5025%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:04.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2224
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3594
+	Voluntary context switches: 21089344
+	Involuntary context switches: 1107
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 1120000 updates
+	Command being timed: "./swaps 1000 112 100 2 100"
+	User time (seconds): 0.76
+	System time (seconds): 27.65
+	Percent of CPU this job got: 5204%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2808
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 791
+	Voluntary context switches: 172907
+	Involuntary context switches: 16
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 500 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 5600000 updates
+	Command being timed: "./swaps 1000 112 500 2 100"
+	User time (seconds): 4.08
+	System time (seconds): 145.62
+	Percent of CPU this job got: 5356%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:02.79
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2872
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1219
+	Voluntary context switches: 916130
+	Involuntary context switches: 44
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 1000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 11200000 updates
+	Command being timed: "./swaps 1000 112 1000 2 100"
+	User time (seconds): 8.17
+	System time (seconds): 294.09
+	Percent of CPU this job got: 5397%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.60
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2856
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1181
+	Voluntary context switches: 1762755
+	Involuntary context switches: 169
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 2000 iters, variant 2, 100 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 22400000 updates
+	Command being timed: "./swaps 1000 112 2000 2 100"
+	User time (seconds): 16.95
+	System time (seconds): 598.41
+	Percent of CPU this job got: 5481%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:11.22
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2724
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1340
+	Voluntary context switches: 3751208
+	Involuntary context switches: 384
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 2800000 updates
+	Command being timed: "./swaps 1000 112 100 2 250"
+	User time (seconds): 3.02
+	System time (seconds): 97.57
+	Percent of CPU this job got: 5217%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.92
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3664
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1171
+	Voluntary context switches: 618360
+	Involuntary context switches: 94
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 500 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 14000000 updates
+	Command being timed: "./swaps 1000 112 500 2 250"
+	User time (seconds): 14.80
+	System time (seconds): 500.82
+	Percent of CPU this job got: 5394%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:09.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3612
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1706
+	Voluntary context switches: 3069375
+	Involuntary context switches: 285
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 1000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 112 1000 2 250"
+	User time (seconds): 29.08
+	System time (seconds): 1001.09
+	Percent of CPU this job got: 5394%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:19.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3680
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2792
+	Voluntary context switches: 5697161
+	Involuntary context switches: 654
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 2000 iters, variant 2, 250 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 56000000 updates
+	Command being timed: "./swaps 1000 112 2000 2 250"
+	User time (seconds): 58.57
+	System time (seconds): 1997.23
+	Percent of CPU this job got: 5387%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:38.16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3804
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3522
+	Voluntary context switches: 12390355
+	Involuntary context switches: 1282
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 100 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 5600000 updates
+	Command being timed: "./swaps 1000 112 100 2 500"
+	User time (seconds): 11.06
+	System time (seconds): 325.86
+	Percent of CPU this job got: 5372%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.27
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4252
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1792
+	Voluntary context switches: 1933972
+	Involuntary context switches: 223
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 500 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 28000000 updates
+	Command being timed: "./swaps 1000 112 500 2 500"
+	User time (seconds): 53.75
+	System time (seconds): 1594.70
+	Percent of CPU this job got: 5321%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:30.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4248
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4124
+	Voluntary context switches: 10182625
+	Involuntary context switches: 813
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 1000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 56000000 updates
+	Command being timed: "./swaps 1000 112 1000 2 500"
+	User time (seconds): 112.66
+	System time (seconds): 3284.89
+	Percent of CPU this job got: 5385%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:03.08
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4148
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 5368
+	Voluntary context switches: 20514098
+	Involuntary context switches: 1984
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+1000 entries, 112 threads, 2000 iters, variant 2, 500 swaps
+Commits: 0, Aborts: 0, Fallback: 0
+Found 112000000 updates
+	Command being timed: "./swaps 1000 112 2000 2 500"
+	User time (seconds): 211.17
+	System time (seconds): 6461.47
+	Percent of CPU this job got: 5357%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:04.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4200
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 7646
+	Voluntary context switches: 36387401
+	Involuntary context switches: 3444
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

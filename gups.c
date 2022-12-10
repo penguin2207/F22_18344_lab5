@@ -58,7 +58,6 @@ void *process_mut( void *varg ){
     start working at the same time*/
   pthread_barrier_wait(&start_bar);
 
-  /*TODO: Change this code to use spinlocks*/
   for(int i = 0; i < num_iters; i++){
 
     size_t ind = rand() % kv_entries;
@@ -77,7 +76,6 @@ void *process_fetchandadd( void *varg ){
     start working at the same time*/
   pthread_barrier_wait(&start_bar);
 
-  /*TODO: Change this code to use fetch and add*/
   for(int i = 0; i < num_iters; i++){
 
     size_t ind = rand() % kv_entries;
@@ -93,7 +91,6 @@ void *process_cmpexchg( void *varg ){
     start working at the same time*/
   pthread_barrier_wait(&start_bar);
   
-  /*TODO: Change this code to use cmpexchg*/
   for(int i = 0; i < num_iters; i++){
 
     size_t ind = rand() % kv_entries;
@@ -107,9 +104,8 @@ void *process_tm( void *varg ){
   /*The barrier wait synchronizes the threads to 
     start working at the same time*/
   pthread_barrier_wait(&start_bar);
-  int MAX_TRIES = 200;
+  int MAX_TRIES = 15;
 
-  /*TODO: Change this code to use TM*/
   for(int i = 0; i < num_iters; i++){
 
     size_t ind = rand() % kv_entries;
@@ -118,16 +114,16 @@ void *process_tm( void *varg ){
       int status = _xbegin();
       if(status == _XBEGIN_STARTED){
         if(kv_mut[ind] != 1) {
-          __sync_fetch_and_add(aborts_tm, 1);
           _xabort(_XABORT_EXPLICIT);
         }
         kv[ind]++;
-        __sync_fetch_and_add(commits_tm, 1);
+        //__sync_fetch_and_add(commits_tm, 1);
         _xend();
         goto end;
       }
+      //__sync_fetch_and_add(aborts_tm, 1);
     }
-    __sync_fetch_and_add(fallbacks_tm, 1);
+    //__sync_fetch_and_add(fallbacks_tm, 1);
     pthread_spin_lock(kv_mut + ind);
     kv[ind]++;
     pthread_spin_unlock(kv_mut + ind);
@@ -146,11 +142,14 @@ unsigned long postprocess(){
     sum = sum + kv[i];     
   } 
   printf("Found %lu updates\n",sum);
+  printf("Aborts: %d\nCommits: %d\nFallbacks: %d\n",*aborts_tm,*commits_tm,*fallbacks_tm);
 
 }
 
 int main(int argc, char *argv[]){
-
+  aborts_tm = (size_t*)calloc(1, sizeof(size_t));
+  commits_tm = (size_t*)calloc(1, sizeof(size_t));
+  fallbacks_tm = (size_t*)calloc(1, sizeof(size_t));
   if(argc != 5){
     fprintf(stderr,"Usage: gups <entries> <threads> <iterations> <variant>\n");
     exit(-1);
@@ -201,8 +200,6 @@ int main(int argc, char *argv[]){
 
       case VARIANT_TM :
         process = &process_tm;
-        aborts_tm = (size_t*)calloc(1, sizeof(size_t));
-        fallbacks_tm = (size_t*)calloc(1, sizeof(size_t));
         /*Hint, Hint: for the TM version, you'll *also* need some 
           spinlocks*/     
         kv_mut = calloc(kv_entries,sizeof(pthread_spinlock_t)); 
@@ -250,4 +247,5 @@ int main(int argc, char *argv[]){
   postprocess();
 
 }
+
 
